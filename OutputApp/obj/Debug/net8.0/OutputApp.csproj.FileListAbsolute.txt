@@ -1,0 +1,14 @@
+C:\Users\Sarah\source\repos\CodingFactory\OutputApp\bin\Debug\net8.0\OutputApp.exe
+C:\Users\Sarah\source\repos\CodingFactory\OutputApp\bin\Debug\net8.0\OutputApp.deps.json
+C:\Users\Sarah\source\repos\CodingFactory\OutputApp\bin\Debug\net8.0\OutputApp.runtimeconfig.json
+C:\Users\Sarah\source\repos\CodingFactory\OutputApp\bin\Debug\net8.0\OutputApp.dll
+C:\Users\Sarah\source\repos\CodingFactory\OutputApp\bin\Debug\net8.0\OutputApp.pdb
+C:\Users\Sarah\source\repos\CodingFactory\OutputApp\obj\Debug\net8.0\OutputApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarah\source\repos\CodingFactory\OutputApp\obj\Debug\net8.0\OutputApp.AssemblyInfoInputs.cache
+C:\Users\Sarah\source\repos\CodingFactory\OutputApp\obj\Debug\net8.0\OutputApp.AssemblyInfo.cs
+C:\Users\Sarah\source\repos\CodingFactory\OutputApp\obj\Debug\net8.0\OutputApp.csproj.CoreCompileInputs.cache
+C:\Users\Sarah\source\repos\CodingFactory\OutputApp\obj\Debug\net8.0\OutputApp.dll
+C:\Users\Sarah\source\repos\CodingFactory\OutputApp\obj\Debug\net8.0\refint\OutputApp.dll
+C:\Users\Sarah\source\repos\CodingFactory\OutputApp\obj\Debug\net8.0\OutputApp.pdb
+C:\Users\Sarah\source\repos\CodingFactory\OutputApp\obj\Debug\net8.0\OutputApp.genruntimeconfig.cache
+C:\Users\Sarah\source\repos\CodingFactory\OutputApp\obj\Debug\net8.0\ref\OutputApp.dll
