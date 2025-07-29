@@ -1,0 +1,15 @@
+C:\Users\Sarah\source\repos\CodingFactory\FuctorialApp\bin\Debug\net8.0\FuctorialApp.exe
+C:\Users\Sarah\source\repos\CodingFactory\FuctorialApp\bin\Debug\net8.0\FuctorialApp.deps.json
+C:\Users\Sarah\source\repos\CodingFactory\FuctorialApp\bin\Debug\net8.0\FuctorialApp.runtimeconfig.json
+C:\Users\Sarah\source\repos\CodingFactory\FuctorialApp\bin\Debug\net8.0\FuctorialApp.dll
+C:\Users\Sarah\source\repos\CodingFactory\FuctorialApp\bin\Debug\net8.0\FuctorialApp.pdb
+C:\Users\Sarah\source\repos\CodingFactory\FuctorialApp\obj\Debug\net8.0\FuctorialApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarah\source\repos\CodingFactory\FuctorialApp\obj\Debug\net8.0\FuctorialApp.AssemblyInfoInputs.cache
+C:\Users\Sarah\source\repos\CodingFactory\FuctorialApp\obj\Debug\net8.0\FuctorialApp.AssemblyInfo.cs
+C:\Users\Sarah\source\repos\CodingFactory\FuctorialApp\obj\Debug\net8.0\FuctorialApp.csproj.CoreCompileInputs.cache
+C:\Users\Sarah\source\repos\CodingFactory\FuctorialApp\obj\Debug\net8.0\FuctorialApp.sourcelink.json
+C:\Users\Sarah\source\repos\CodingFactory\FuctorialApp\obj\Debug\net8.0\FuctorialApp.dll
+C:\Users\Sarah\source\repos\CodingFactory\FuctorialApp\obj\Debug\net8.0\refint\FuctorialApp.dll
+C:\Users\Sarah\source\repos\CodingFactory\FuctorialApp\obj\Debug\net8.0\FuctorialApp.pdb
+C:\Users\Sarah\source\repos\CodingFactory\FuctorialApp\obj\Debug\net8.0\FuctorialApp.genruntimeconfig.cache
+C:\Users\Sarah\source\repos\CodingFactory\FuctorialApp\obj\Debug\net8.0\ref\FuctorialApp.dll
